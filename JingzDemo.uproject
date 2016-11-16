@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D5A2F794-4DDA-00B7-F9BE-BF84CD133D75}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "JingzDemo",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
